@@ -1,0 +1,4 @@
+AuthName 'Please enter your admin username and password'
+AuthType Basic
+AuthUserFile '/home/lsorocf/www/admin/.htpasswd'
+Require valid-user

@@ -1,0 +1,17 @@
+.mdc-text-field {
+    width: 500px;
+}
+
+.block {
+    margin: 2%;
+}
+
+.center{
+    float: left; 
+    margin-left: 1%;
+    min-width: 600px;
+}
+
+table{
+	max-width: 1000px;
+}
